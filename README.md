@@ -1,1 +1,1 @@
-# SO2019_GRUPO22
+# Calculating Pi using POSIX Threads in C
